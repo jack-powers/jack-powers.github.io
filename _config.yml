@@ -1,10 +1,10 @@
 title: Jack Powers # your name (or website title) here
 logo: "/images/jack_photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Bachelor of Mathematics student at Queensland University of Technology 
   <br><br>
-  Second description 
-  <br><br>
+  # Second description 
+  # <br><br>
   <a href="https://www.linkedin.com/in/jackpowers2/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
