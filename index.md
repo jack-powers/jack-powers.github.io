@@ -2,7 +2,10 @@
 
 ---
 
-### Category Name 1 
+
+### Professional Summary
+I am a mathematics graduate from Queensland University of Technology
+### Research Work 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
