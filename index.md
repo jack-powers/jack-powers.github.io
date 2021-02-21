@@ -4,7 +4,7 @@
 
 
 ### Professional Summary
-I am a mathematics graduate from Queensland University of Technology
+I am a mathematics graduate from Queensland University of Technology currently undertaking a Master of Philosophy (Mathematics). 
 ### Research Work 
 
 [Project 1 Title](/sample_page)
