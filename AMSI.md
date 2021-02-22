@@ -8,5 +8,5 @@
 
 [AMSI VRS Report](/pdf/AMSIReport.pdf)
 
-[AMSI Connect Presentation](/pdf/AMSIConnectPresentation)
+[AMSI Connect Presentation](/pdf/AMSIConnectPresentation.pdf)
 
