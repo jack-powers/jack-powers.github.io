@@ -4,10 +4,10 @@
 
 
 ### Professional Summary
-I am a mathematics graduate from Queensland University of Technology currently undertaking a Master of Philosophy (Mathematics). 
+I am a mathematics graduate from Queensland University of Technology currently undertaking a Master of Philosophy (Mathematics), also from QUT. 
 ### Research Work 
 
-[Project 1 Title](/sample_page)
+[AMSI VRS Summer Research Project](/AMSI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
