@@ -7,7 +7,7 @@
 I am a mathematics graduate from Queensland University of Technology currently undertaking a Master of Philosophy (Mathematics), also from QUT. 
 ### Research Work 
 
-[AMSI VRS Summer Research Project](/AMSI)
+[2020/21 AMSI VRS Summer Research Project](/AMSI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
