@@ -4,7 +4,9 @@
 
 
 ### Professional Summary
-I am a mathematics graduate from Queensland University of Technology currently undertaking a Master of Philosophy (Mathematics), also from QUT. 
+I am a Master of Philosophy (Mathematics) student at Queensland University of Technology researching prioritisation techniques for elective surgery waiting lists. I have completed a Bachelor of Mathematics degree majoring in Operations Research from QUT in 2020. I have a range of skills in mathematics, statistics, simulation, and data science.
+
+
 ### Research Work 
 
 [2020/21 AMSI VRS Summer Research Project](/AMSI)
