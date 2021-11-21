@@ -9,18 +9,11 @@ I am a Master of Philosophy (Mathematics) student at Queensland University of Te
 
 ### Research Work 
 
+---
 [2020/21 AMSI VRS Summer Research Project](/AMSI)
 ---
 
 [2019/20 QUT VRES Summer Research Project](/QUT_VRES)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
