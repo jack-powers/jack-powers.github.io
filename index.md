@@ -10,15 +10,20 @@ I am a Master of Philosophy (Mathematics) student at Queensland University of Te
 ### Research Work 
 
 ---
-[2020/21 AMSI VRS Summer Research Project](/AMSI)
+[2020/21 AMSI VRS Summer Research Project](/pages/AMSI)
 
 ---
 
-[2019/20 QUT VRES Summer Research Project](/QUT_VRES)
+[2019/20 QUT VRES Summer Research Project](/pages/QUT_VRES)
 
 ---
 
 
+### Projects
 
+---
+[Google Chrome Extension - Schedula Calendar](/pages/SchedulaCalendar)
+
+---
 
 
