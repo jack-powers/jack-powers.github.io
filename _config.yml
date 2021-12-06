@@ -1,7 +1,7 @@
 title: Jack Powers # your name (or website title) here
-logo: "/images/jack_photo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/jack_photo.jpg" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Master of Philosophy (Mathematics) student at Queensland University of Technology 
+  Master of Philosophy (Mathematics) student at <a href="https://www.qut.edu.au/">Queensland University of Technology</a> 
   <br><br>
   Bachelor of Mathematics (Operations Research) graduate, QUT
   <br><br>
