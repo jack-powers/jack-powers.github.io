@@ -1,5 +1,5 @@
 ---
-title: "Optimisation of Surgical Waiting List Management"
+title: "Optimisation of Surgical Waiting List Management (Vacation Research)"
 # excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: research
 ---
