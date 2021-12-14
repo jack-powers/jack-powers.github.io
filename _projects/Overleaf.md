@@ -1,7 +1,7 @@
 ---
 title: "LaTeX Template - QUT Master of Philosophy Research Proposal"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: Projects
+# excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: projects
 ---
 
 <!-- ## LaTeX Template - QUT Master of Philosophy Research Proposal -->
