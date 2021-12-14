@@ -258,10 +258,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _teaching
+  # _projects
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: talk
       author_profile: true
