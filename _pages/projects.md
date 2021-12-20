@@ -7,7 +7,7 @@ author_profile: true
 #   - /projects.html
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 <!-- {% for post in site.projects %}
