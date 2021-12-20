@@ -1,6 +1,6 @@
 ---
-title: "Schedula Calendar"
-excerpt: "Short description of portfolio item number 2"
+title: "Schedula Calendar Chrome Extension"
+# excerpt: "Short description of portfolio item number 2"
 collection: projects
 ---
 
