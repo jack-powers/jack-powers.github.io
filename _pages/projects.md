@@ -20,13 +20,9 @@ modified: 2016-06-06
 <!-- # Consulting -->
 
 ## Contract Management Tool, Peabody Australia
-###### 2021
-
 An application was developed using Microsoft Excel and VBA in collaboration with [Peter Humphreys Pty Ltd](https://www.peterhumphreys.net/) to manage large volumes of contractual information for this large mining company. This application integrated seamlessly to the SPARC product (Sales Performance and Reporting of Contracts), and enabled the organisation to implement its governance requirements, mitigate against multiple risks and increase operational efficiency.
 
 ## Sales Performance and Reporting of Contracts (SPARC) Implementation, Peabody Australia
-##### 2021
-
 In collaboration with [Peter Humphreys Pty Ltd](https://www.peterhumphreys.net/), we developed a custom validation and verification framework for the migration of existing operational data from multiple sources into the SPARC product developed by Peter Humphreys Pty Ltd. This project resulted in significant gains in operational efficiency. Opportunities were also identified and implemented to add value to the data management process.
 
 ## Chicken Coop Automation
