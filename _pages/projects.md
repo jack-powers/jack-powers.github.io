@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-
+<!-- 
 {% for post in site.projects %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 
 # Consulting
 
 ## Contract Management Tool, Peabody Australia
-An application was developed using Microsoft Excel and VBA in collaboration with Peter Humphreys Pty Ltd to manage large volumes of contractual information for this large mining company. This application integrated seamlessly to the SPARC product (Sales Performance and Reporting of Contracts), and enabled the organisation to implement its governance requirements, mitigate against multiple risks and increase operational efficiency.
+An application was developed using Microsoft Excel and VBA in collaboration with [Peter Humphreys Pty Ltd](https://www.peterhumphreys.net/) to manage large volumes of contractual information for this large mining company. This application integrated seamlessly to the SPARC product (Sales Performance and Reporting of Contracts), and enabled the organisation to implement its governance requirements, mitigate against multiple risks and increase operational efficiency.
 
 ## Sales Performance and Reporting of Contracts (SPARC) Implementation, Peabody Australia
-In collaboration with Peter Humphreys Pty Ltd, we developed a custom validation and verification framework for the migration of existing operational data from multiple sources into the SPARC product developed by Peter Humphreys Pty Ltd. This project resulted in significant gains in operational efficiency. Opportunities were also identified and implemented to add value to the data management process.
+In collaboration with [Peter Humphreys Pty Ltd](https://www.peterhumphreys.net/), we developed a custom validation and verification framework for the migration of existing operational data from multiple sources into the SPARC product developed by Peter Humphreys Pty Ltd. This project resulted in significant gains in operational efficiency. Opportunities were also identified and implemented to add value to the data management process.
+
 
 
 
 
 
 ## LaTeX Template - QUT Master of Philosophy Research Proposal
-
 I developed a LaTeX template during my Master of Philosophy degree for the Research Proposal milestone. The template can be found on Overleaf [here](https://www.overleaf.com/latex/templates/queensland-university-of-technology-qut-mphil-research-proposal/cbmfdbxqnssy).
 
 
