@@ -7,12 +7,12 @@ author_profile: true
 #   - /projects.html
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 
-<!-- {% for post in site.projects %}
+{% for post in site.projects %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
 
 <!-- # Consulting -->
