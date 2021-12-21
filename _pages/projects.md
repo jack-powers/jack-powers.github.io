@@ -20,7 +20,7 @@ modified: 2016-06-06
 
 
 ##  QUT Master of Philosophy Research Proposal LaTeX Template
-**Project description:** I developed a LaTeX template during my Master of Philosophy degree for the Research Proposal milestone. Available on the Overleaf [Template Gallery](https://www.overleaf.com/latex/templates/queensland-university-of-technology-qut-mphil-research-proposal/cbmfdbxqnssy).
+**Project description:** I developed a LaTeX template during my Master of Philosophy degree for the Research Proposal milestone. Available on the [Overleaf Template Gallery](https://www.overleaf.com/latex/templates/queensland-university-of-technology-qut-mphil-research-proposal/cbmfdbxqnssy).
 
 
 
