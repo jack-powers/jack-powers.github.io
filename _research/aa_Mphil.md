@@ -7,6 +7,9 @@ collection: research
 
 **Project description:** MPhil project looking into using mathematics to more equitably and transparently order public elective surgery patients in Queensland, Australia
 
+### Presentations
+* QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
+
 
 
 
