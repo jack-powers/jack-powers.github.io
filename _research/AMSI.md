@@ -2,6 +2,8 @@
 title: "Optimisation of Surgical Waiting List Management (Vacation Research)"
 # excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: research
+order: 2
+
 ---
 
 
@@ -11,7 +13,7 @@ collection: research
 
 
 
-[AMSI VRS Report](/pdf/AMSIReport.pdf)
+[AMSI VRS Report](/files/AMSI Report.pdf)
 
-[AMSI Connect Presentation](/pdf/AMSIConnectPresentation.pdf)
+[AMSI Connect Presentation](/files/AMSI Connect Presentation.pdf)
 

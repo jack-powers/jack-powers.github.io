@@ -2,6 +2,7 @@
 title: "Optimisation of Surgical Waiting List Management (MPhil Project)"
 # excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: research
+order: 1
 ---
 
 
@@ -11,5 +12,6 @@ collection: research
 * QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
 
 
-
+### Awards
+* Awarded the inaugural [1000minds](www.1000minds.com) Decision-Making Scholarship based on submission of the project's research proposal.
 
