@@ -9,6 +9,6 @@ order: 3
 
 **Project description:** Summer research project undertaken as part of the QUT Vacation Experience Research Scheme, looking into utilising genetic algorithms to generate an OD matrix from traffic sensor and Bluetooth sensor counts. 
 
-[QUT VRES Poster](/pdf/Jack Powers VRES Poster.pdf)
+[QUT VRES Poster](/files/Jack Powers VRES Poster.pdf)
 
 
