@@ -32,5 +32,5 @@ to maximise key performance metrics.
 
 
 ### Awards
-* Awarded the inaugural [1000minds](www.1000minds.com) Decision-Making Scholarship based on submission of the project's research proposal.
+* Awarded the inaugural [1000minds](https://www.1000minds.com) Decision-Making Scholarship based on submission of the project's research proposal.
 
