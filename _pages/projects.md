@@ -3,7 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-modified: 2016-06-06
+modified: 2021-12-24
 
 # redirect_from: 
 #   - /projects.html
@@ -15,6 +15,10 @@ modified: 2016-06-06
 {% for post in site.projects1 %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## Arduino Chicken Coop Door Automation
+**Project description:** Developed an automation solution to open and close a chicken coop door at predetermined times throughout the day using the Arduino microprocessor platform. Utilised skills in both hardware and software to design circuitry and custom PCBs, as well as appropriately program door behaviour. Future planned developments in this area include automated chicken feed and garden watering solutions, and Wi-Fi enabled automation solutions.  
 
 
 ## Schedula Calendar Google Chrome Extension
