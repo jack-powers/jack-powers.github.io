@@ -12,25 +12,26 @@ redirect_from:
 Education
 ======
 * Bachelor of Mathematics (Operations Research & Data Science), QUT, 2020
-* Master of Philosophy (Mathematics), QUT, 2022 (expected)
+* Master of Philosophy (Mathematics), QUT, end 2022
 
 Work experience
 ======
 * Summer Vacationer, Deloitte - November 2021 - December 2021 
   * Intern in the Risk Analytics team in Risk Advisory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Sessional Academic, QUT - March 2021 - present
+  * Tutor for:
+    * MZB125 - Introductory Engineering Mathematics (Semester 1 & 2, 2021)
+    * MXB161 - Computational Explorations (Semester 2, 2021)
 
+* Orientation Leader & Assistant, QUT - September 2019 - February 2021
+  * Programs Assistant (2021) - assisting in the development, planning and organisation of orientation week resources and events.
+  * Welcome Tent Assistant (2020) - aiding in the daily operation of the welcome tent during orientation week and leading small teams of volunteers
+  * Group interview facilitator for volunteer intakes of the QUT Connect Program
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer Vacationer, PwC - November 2019 - December 2019
+  * Intern in the Governance, Risk and Compliance team in Audit & Assurance
+
 
 
 
