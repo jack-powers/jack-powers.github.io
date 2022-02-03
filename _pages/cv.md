@@ -20,9 +20,7 @@ Work experience
   * Intern in the Risk Analytics team in Risk Advisory
 
 * Sessional Academic, QUT - March 2021 - present
-  * Tutor for:
-    * MZB125 - Introductory Engineering Mathematics (Semester 1 & 2, 2021)
-    * MXB161 - Computational Explorations (Semester 2, 2021)
+  * Tutor for MZB125 - Introductory Engineering Mathematics (Semester 1 & 2, 2021) & MXB161 - Computational Explorations (Semester 2, 2021)
 
 * Orientation Leader & Assistant, QUT - September 2019 - February 2021
   * Programs Assistant (2021) - assisting in the development, planning and organisation of orientation week resources and events.
