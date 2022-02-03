@@ -14,19 +14,27 @@ Education
 * Bachelor of Mathematics (Operations Research & Data Science), QUT, 2020
 * Master of Philosophy (Mathematics), QUT, 2022 (expected)
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer Vacationer, Deloitte - November 2021 - December 2021 
+  * Intern in the Risk Analytics team in Risk Advisory
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -47,11 +55,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
