@@ -34,7 +34,6 @@ Work experience
 
 
 
-
 <!-- Skills
 ======
 * Skill 1
