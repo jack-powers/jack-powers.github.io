@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Mathematics (Operations Research & Data Science), QUT, 2020
-* Master of Philosophy (Mathematics), QUT, end 2022
+* Doctor of Philosophy (Mathematics), QUT, 2024
 
 Work experience
 ======

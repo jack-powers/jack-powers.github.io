@@ -16,6 +16,8 @@ modified: 2021-12-24
   {% include archive-single.html %}
 {% endfor %}
 
+## Referee Fitness Tests Garmin Watch App
+**Project description:** Developed a Garmin watch app that can run all the FIFA approved fitness tests for football referees. It is available on the [Garmin App Store](https://apps.garmin.com/en-US/apps/93e0e777-9dbf-4e46-b1d8-91d7a70e52e8).
 
 ## Arduino Chicken Coop Door Automation
 **Project description:** Developed an automation solution to open and close a chicken coop door at predetermined times throughout the day using the Arduino microprocessor platform. Utilised skills in both hardware and software to design circuitry and custom PCBs, as well as appropriately program door behaviour. Future planned developments in this area include automated chicken feed and garden watering solutions, and Wi-Fi enabled automation solutions.  
