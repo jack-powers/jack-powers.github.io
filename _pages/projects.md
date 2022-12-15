@@ -16,6 +16,12 @@ modified: 2021-12-24
   {% include archive-single.html %}
 {% endfor %}
 
+# Professional Projects
+
+![Logo](/images/Logo1.png)
+
+<!-- <img src="/images/Logo1.png" width="200" height="100"> -->
+
 ## Sales Performance and Reporting of Contracts (SPARC) Implementation, Peabody Australia
 **Project description:** In collaboration with [Peter Humphreys Pty Ltd](http://www.peterhumphreys.net/), we developed a custom validation and verification framework for the migration of existing operational data from multiple sources into the SPARC product developed by Peter Humphreys Pty Ltd. This project resulted in significant gains in operational efficiency. Opportunities were also identified and implemented to add value to the data management process.
 
