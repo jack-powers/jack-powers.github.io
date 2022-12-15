@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Professional Projects"
 permalink: /projects/
 author_profile: true
 modified: 2021-12-24
@@ -16,11 +16,14 @@ modified: 2021-12-24
   {% include archive-single.html %}
 {% endfor %}
 
-# Professional Projects
+<!-- # Professional Projects -->
 
-![Logo](/images/Logo1.png)
+<!-- ![Logo](/images/Logo1.png) -->
 
 <!-- <img src="/images/Logo1.png" width="200" height="100"> -->
+
+<img src="https://raw.githubusercontent.com/jack-powers/jack-powers.github.io/master/images/Logo1.png" width="500">
+
 
 ## Sales Performance and Reporting of Contracts (SPARC) Implementation, Peabody Australia
 **Project description:** In collaboration with [Peter Humphreys Pty Ltd](http://www.peterhumphreys.net/), we developed a custom validation and verification framework for the migration of existing operational data from multiple sources into the SPARC product developed by Peter Humphreys Pty Ltd. This project resulted in significant gains in operational efficiency. Opportunities were also identified and implemented to add value to the data management process.
@@ -38,7 +41,7 @@ modified: 2021-12-24
 *	Track weekly referee appointments according to each club in all competitions, to avoid referees being appointed to the same team several weeks in a row. 
 *	Track referee assessor appointments, ensuring each referee receives a fair number of assessments and assessors appointments are fairly distributed. 
 
-
+# Personal Projects
 ## Referee Fitness Tests Garmin Watch App
 **Project description:** Developed a Garmin watch app that can run all the FIFA approved fitness tests for football referees. It is available on the [Garmin App Store](https://apps.garmin.com/en-US/apps/93e0e777-9dbf-4e46-b1d8-91d7a70e52e8).
 
