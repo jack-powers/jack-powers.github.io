@@ -16,10 +16,9 @@ I teach/have taught the following units at QUT as a sessional academic:
 
 Student feedback of my teaching can be viewed below or [here](/files/Student Feedback 2021.pdf).
 
-
 <object data="https://jack-powers.com/files/Student%20Feedback%202021.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jack-powers.com/files/Student%20Feedback%202021.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jack-powers.com/files/Student%20Feedback%202021.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please click link above.</p>
     </embed>
 </object>
 
