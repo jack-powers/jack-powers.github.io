@@ -14,6 +14,13 @@ I teach/have taught the following units at QUT as a sessional academic:
 * MZB125 - Introductory Engineering Mathematics (Semester 1 2021 & Semester 2 2021, Semester 2 2022)
 * MXB161 - Computational Explorations (Semester 2 2021, Semester 1 & 2 2022)
 
-Student feedback of my teaching can be viewed [here](/files/Student Feedback 2021.pdf).
+Student feedback of my teaching can be viewed below or [here](/files/Student Feedback 2021.pdf).
+
+
+<object data="https://jack-powers.com/files/Student%20Feedback%202021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://jack-powers.com/files/Student%20Feedback%202021.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jack-powers.com/files/Student%20Feedback%202021.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
