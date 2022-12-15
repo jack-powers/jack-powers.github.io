@@ -22,7 +22,7 @@ modified: 2021-12-24
 
 <!-- <img src="/images/Logo1.png" width="200" height="100"> -->
 
-<img src="https://raw.githubusercontent.com/jack-powers/jack-powers.github.io/master/images/Logo1.png" width="500">
+<img src="https://jack-powers.com/images/Logo1.png" width="500">
 
 
 ## Sales Performance and Reporting of Contracts (SPARC) Implementation, Peabody Australia
