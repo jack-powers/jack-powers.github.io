@@ -1,12 +1,12 @@
 ---
-title: "Optimisation of Surgical Waiting List Management (MPhil Project)"
+title: "Optimisation of Surgical Waiting List Management (PhD Project)"
 # excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: research
 order: 1
 ---
 
 
-**Project description:** MPhil project looking into using mathematics to more equitably and transparently order public elective surgery patients in Queensland, Australia
+**Project description:** PhD project looking into using mathematics to more equitably and transparently order public elective surgery patients in Queensland, Australia
 
 ### Broad Overview
 In the Australian public health system, there is often a long waiting list for patients to access elective surgeries due
