@@ -29,6 +29,8 @@ to maximise key performance metrics.
 
 ### Presentations
 * QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
+* Three Miniute Thesis (3MT) Competition Presentation - 2022 Faculty of Science Finalist - [video link](https://www.youtube.com/watch?v=mMsUbdwGcnM)
+* Visualise Your Thesis Competition Presentation - [video link](https://www.youtube.com/watch?v=nfhS3j-66OU)
 
 
 ### Awards
