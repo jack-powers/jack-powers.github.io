@@ -8,8 +8,6 @@ author_profile: false
 #   - /privacy.html
 ---
 
-## Privacy Policy
-
 Thank you for visiting JP Data Solutions ("we," "us," or "our"). This Privacy Policy outlines how we collect, use, and protect the personal information you provide while interacting with our services. By using our services, you agree to the practices described in this policy.
 
 ### Information We Collect:
