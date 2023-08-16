@@ -1,10 +1,11 @@
 ---
+layout: archive
 permalink: /privacy/
 title: "Privacy Policy"
-author_profile: true
-redirect_from: 
-  - /privacy/
-  - /privacy.html
+author_profile: false
+# redirect_from: 
+#   - /privacy/
+#   - /privacy.html
 ---
 
 ## Privacy Policy
