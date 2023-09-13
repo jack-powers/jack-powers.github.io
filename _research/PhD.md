@@ -28,7 +28,7 @@ research will explore the use of genetic programming to optimise the functional 
 to maximise key performance metrics.
 
 ### Publications
-* Powers, J., McGree, J.M., Grieve, D. et al. Managing surgical waiting lists through dynamic priority scoring. Health Care Manag Sci 26, 533–557 (2023). https://doi.org/10.1007/s10729-023-09648-1
+* Powers, J., McGree, J.M., Grieve, D. et al. *Managing surgical waiting lists through dynamic priority scoring*. Health Care Management Science 26, 533–557 (2023). [https://doi.org/10.1007/s10729-023-09648-1](https://doi.org/10.1007/s10729-023-09648-1)
 
 
 ### Presentations
