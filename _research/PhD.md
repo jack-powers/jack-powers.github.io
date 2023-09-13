@@ -33,8 +33,8 @@ to maximise key performance metrics.
 
 ### Presentations
 * 2022 QUT Three Minute Thesis (3MT) Finalist - [video link](https://www.youtube.com/watch?v=mMsUbdwGcnM)
-* Visualise Your Thesis Competition Presentation - [video link](https://www.youtube.com/watch?v=nfhS3j-66OU)
-* QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
+* 2022 Visualise Your Thesis (VYT) Competition Presentation - [video link](https://www.youtube.com/watch?v=nfhS3j-66OU)
+* 2021 QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
 
 
 ### Awards
