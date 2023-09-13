@@ -27,6 +27,10 @@ care. However, the functional form of prioritisation formulas in the literature 
 research will explore the use of genetic programming to optimise the functional form of the prioritisation formula
 to maximise key performance metrics.
 
+### Publications
+* Powers, J., McGree, J.M., Grieve, D. et al. Managing surgical waiting lists through dynamic priority scoring. Health Care Manag Sci 26, 533–557 (2023). https://doi.org/10.1007/s10729-023-09648-1
+
+
 ### Presentations
 * QUT Centre of Data Science End of Year Show Case poster presentations - [poster link](/files/CDS Poster Session.pdf)
 * Three Miniute Thesis (3MT) Competition Presentation - 2022 Faculty of Science Finalist - [video link](https://www.youtube.com/watch?v=mMsUbdwGcnM)
