@@ -14,7 +14,6 @@ redirect_from:
 ======  
 - **PhD in Mathematics (Operations Research)**, QUT, 2021 - 2025  
 - **Bachelor of Mathematics (Operations Research & Data Science)**, QUT, 2018 - 2020  
-- **Certificate III in Fitness**, The College of Health and Fitness, 2018  
 
 ## Work Experience
 ======
