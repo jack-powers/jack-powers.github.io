@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## Please visit my [LinkedIn profile](https://www.linkedin.com/in/jack-f-powers) for my most up-to-date CV.
 
-## Education
+<!-- ## Education
 - **PhD in Mathematics (Operations Research)**, QUT, 2021 - 2025  
 - **Bachelor of Mathematics (Operations Research & Data Science)**, QUT, 2018 - 2020  
 
@@ -52,4 +53,4 @@ redirect_from:
 
 ## Publications
 
-- [Managing surgical waiting lists through dynamic priority scoring](https://doi.org/10.1007/s10729-023-09648-1)
+- [Managing surgical waiting lists through dynamic priority scoring](https://doi.org/10.1007/s10729-023-09648-1) -->
